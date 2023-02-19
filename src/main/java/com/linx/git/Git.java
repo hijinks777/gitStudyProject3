@@ -6,4 +6,7 @@ package com.linx.git;
  * @funtion
  */
 public class Git {
+    public static void main(String[] args) {
+        System.out.println("test");
+    }
 }
